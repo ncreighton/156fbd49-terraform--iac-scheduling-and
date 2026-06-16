@@ -89,6 +89,7 @@ pytest tests/ -v
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -109,8 +110,9 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://mythicalgamer2.gumroad.com/l/kkkcd)**
+**[Get Pro Version](https://buy.stripe.com/28EcN57r1f6Q9JKbzScZf3r)**
 
+- [Buy Now (Stripe)](https://buy.stripe.com/28EcN57r1f6Q9JKbzScZf3r)
 - [Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/kkkcd)
 - [Buy on Whop](https://whop.com/terraform-iac-scheduling-and-availability-api)
 
